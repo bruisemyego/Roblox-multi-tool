@@ -8,7 +8,7 @@
 ---
   
 ## Modules
-
+ 
 - **utils.py** - Utilities, token gen, performance tracking
 - **decal_botter.py** - Buy decals
 - **favorite_assets.py** - Favorite assets
